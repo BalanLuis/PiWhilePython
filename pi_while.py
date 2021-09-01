@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # este es mi primer python_file en git
+# esta es la primera modificación después de vincular con github
 n = int(input("Enter an integer: "))
 k = 0
 pi = 0
