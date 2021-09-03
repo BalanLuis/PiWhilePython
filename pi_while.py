@@ -11,6 +11,7 @@ while k <= n:
     print("%d: %.25f" %(k, pi))
     k = k + 1
 
+# añadimos un comentario para comprensión de n_terms
 n_terms = n + 1
 
 if n == 0:
